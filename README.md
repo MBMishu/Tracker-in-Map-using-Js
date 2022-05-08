@@ -9,7 +9,7 @@
 <div align="center">
   
 
-<a href="https://mbmishu.github.io/Tracker-in-Map-using-Js/history.html">![Duburi](https://img.shields.io/badge/Duburi-Live-9cf?style=for-the-badge)</a>
+<a href="https://mbmishu.github.io/Tracker-in-Map-using-Js/history.html">![Duburi](https://img.shields.io/badge/Tracker-Live-9cf?style=for-the-badge)</a>
 
 </div>
 
